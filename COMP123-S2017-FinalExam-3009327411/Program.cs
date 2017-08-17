@@ -5,11 +5,11 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 /*
- * Name:
- * Date:
- * StudentID:
+ * Name:mehul khosla
+ * Date:aug 17
+ * StudentID:300932741
  * Description:
- * Version:
+ * Version:1.0
  */
 
 namespace COMP123_S2017_FinalExam_3009327411

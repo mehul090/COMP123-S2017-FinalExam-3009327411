@@ -51,7 +51,7 @@
             this.Name = "SplashForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "SplashForm";
-            this.ResumeLayout(false);
+            
 
         }
 
