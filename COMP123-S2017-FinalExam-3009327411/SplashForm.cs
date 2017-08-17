@@ -25,5 +25,10 @@ namespace COMP123_S2017_FinalExam_3009327411
             this.Hide();
 
         }
+
+        private void Tick(object sender, EventArgs e)
+        {
+
+        }
     }
 }
