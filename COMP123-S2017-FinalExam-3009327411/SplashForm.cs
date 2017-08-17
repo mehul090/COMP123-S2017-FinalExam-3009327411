@@ -19,21 +19,16 @@ namespace COMP123_S2017_FinalExam_3009327411
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            
-           
-            PickHighestCardForm pick = new PickHighestCardForm();
-            pick.Show();
-            this.Hide();
-            timer1.Enabled = false;
-
-
-        }
-
-        private void Tick(object sender, EventArgs e)
-        {
+            {
+              
+                timer1.Enabled = false;
+                this.Hide();
+                PickHighestCardForm pick = new PickHighestCardForm();
+                pick.Show();
+              
+            }
 
         }
 
-       
     }
 }
